@@ -1,3 +1,5 @@
 # LeetCode
 
-My solutions to LeetCode problems
+My solutions to some [LeetCode](https://leetcode.com/) problems.
+
+Languages used are mainly Java and Python.
