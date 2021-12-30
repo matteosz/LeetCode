@@ -18,4 +18,3 @@ Output: 9
 - n == height.length
 - 1 <= n <= 2 * 10^4
 - 0 <= height[i] <= 10^5
-
